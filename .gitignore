@@ -1,0 +1,9 @@
+/dist
+/.tmp
+.idea/
+/.project
+/.settings/
+/node_modules/
+/test-results.xml
+.tmp/
+*.iml
